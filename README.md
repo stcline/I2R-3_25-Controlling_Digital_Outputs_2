@@ -5,7 +5,7 @@ Let's see what we remember from our first coding assignment.  This is a repeat w
 
 To begin, build this prototype on your breadboard:
 
-![Lab 3.2 Prototype](CIRCUIT-3-25.PNG)
+![Lab 3.2 Prototype](https://github.com/stcline/I2R-3_25-Controlling_Digital_Outputs_2/blob/main/CIRCUIT-3-25.png?raw=true)
 
 After you have completed the prototype you can test your circuits using the 5V pin to make sure they work.
 
